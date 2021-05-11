@@ -1,0 +1,22 @@
+{
+  "name": "sitemap-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Etienne Favre",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-standard": "^16.0.2"
+  },
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "fast-xml-parser": "^3.19.0",
+    "got": "^11.8.2",
+    "yargs": "^17.0.1"
+  }
+}
